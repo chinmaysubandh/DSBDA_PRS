@@ -1,1 +1,8 @@
 C:\Users\chinm\AppData\Local\Programs\Python\Python311\python.exe -m pip install pandas numpy
+
+
+
+
+
+import sys
+print(sys.executable)
